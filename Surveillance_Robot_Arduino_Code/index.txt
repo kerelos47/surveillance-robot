@@ -1,0 +1,14 @@
+#define forward_Button 1
+#define backward_Button 2
+#define right_Button 3
+#define left_Button 4
+#define MRPWM_Slider 5
+#define MLPWM_Slider 6
+#define SRPWM_Slider 7
+#define Servo_Auto 8
+#define LEDPWM_Slider 9
+#define LED_Auto 10
+
+#define distance_index 1
+#define angle_index 2
+#define LDR_index 3
